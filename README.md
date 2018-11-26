@@ -4,5 +4,5 @@ Wait a moment for the code
 
 ## Experiments
 ### Autonamous drifting with pilco
-![pilco](/PILCO Autonomous Vehicle.png)  
+![pilco](/pilco.png)  
 [Video](https://www.youtube.com/watch?v=vsAGxb89ECs&feature=youtu.be)
